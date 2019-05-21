@@ -153,9 +153,9 @@ SCM_COMMAND_IDLE_TIMEOUT=300
 # Usage
 
 The data being uploaded from the server to the client is from a
-MongoDB server such as [mongolab][mongodb].
+MongoDB server such as [mlab][mongodb].
 
-[mongodb]: https://mongolab.com
+[mongodb]: https://mlab.com
 [autoconfigure]: https://nightscout.github.io/pages/configure/
 [mongostring]: https://nightscout.github.io/pages/mongostring/
 
